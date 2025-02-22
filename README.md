@@ -25,3 +25,21 @@
 ```bash
 git clone https://github.com/codewithuv/myntra-clone.git
 
+3️⃣ Run the Project
+Open index.html in your browser 🚀
+
+🎨 UI Enhancements (To-Do)
+ Add dark mode
+ Improve animations & hover effects
+ Implement search & filter functionality
+🤝 Contribute
+Feel free to fork the repo and contribute! Open an issue if you have suggestions.
+
+📬 Contact 
+📧 Email: ind.utkarsh@gmail.com
+📌 GitHub: codewithuv
+
+💙 Loved this project? Give it a ⭐ and share with friends!
+
+
+Would you like any modifications or additional sections? 🚀😃
